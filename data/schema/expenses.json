@@ -1,0 +1,13 @@
+[
+  {
+    "id": "exp_001",
+    "title": "Pizza",
+    "amount": 250,
+    "type": "expense",
+    "categoryId": "cat_food",
+    "accountId": "acc_cash",
+    "paymentMethod": "UPI",
+    "date": "2026-05-24T10:30:00Z",
+    "notes": "Dinner"
+  }
+]

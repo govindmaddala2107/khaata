@@ -1,0 +1,14 @@
+[
+  {
+    "id": "acc_cash",
+    "name": "Cash",
+    "balance": 5000,
+    "type": "cash"
+  },
+  {
+    "id": "acc_bank",
+    "name": "HDFC",
+    "balance": 12000,
+    "type": "bank"
+  }
+]
